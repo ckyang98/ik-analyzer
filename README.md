@@ -1,4 +1,4 @@
-IK分词器，修改后兼容4.10.3
+IK分词器，修改后兼容4.10.3</br>
 配置方法：
 ```
  <fieldType name="text_ik" class="solr.TextField">
